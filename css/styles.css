@@ -1,0 +1,6 @@
+
+
+.site-nav li a {color: green; 18px}
+.logo {color: black;}:hover,:focus{color: tomato;}
+.logo:active {color: teal ;}
+.list {list-style: none;}
